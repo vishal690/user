@@ -2,5 +2,16 @@
     "no_of_teams": [1,2,3,4,5],
     "players_per_team": [1,2,3,4,5,6,7,8,9,10,11],
     "inning_per_team":[1,2],
+    "limited_overs": ["Yes","NO"],
+    "player_play": ["Double player play","Single player play"],
+    "last_man_batting":  ["Yes","NO"],
+    "strike_change":["Odd batsman runs","On any batsman runs"],
+    "out_penalty":["Single Time","Multiple Time","No"],
+    "retire_option": ["Yes","NO"],
+    "declare_option": ["Yes","NO"],
+    "consecutive_rule": ["Yes","NO"],
+    "no_of_consecutive_balls":[2,3,4],
+    "out_types":["bowled","LBW","Catch","Runout","Consecutive","Outzone"],
+    "balls_per_over":[4,5,6,7,8],
     "name": "vishal"
 }
